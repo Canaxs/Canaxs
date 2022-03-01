@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub Profile
 
-I'm Software Developer
+I'm Java Software Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
