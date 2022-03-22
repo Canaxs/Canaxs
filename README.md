@@ -2,7 +2,7 @@
 
 I'm Java Software Developer
 
-- 🔭 I’m currently working on Java Spring
+- 🔭 I’m currently working on Spring Framework,SpringBoot,MySQL,Hibernate,ReactJS
 - 🌱 I’m currently interested Java
 - 📫 How to reach me: mmericcana@gmail.com
 - 👔 My LinkedIn Profile: linkedin.com/in/mericcana/
