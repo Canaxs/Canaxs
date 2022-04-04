@@ -6,3 +6,4 @@ I'm Java Software Developer
 - 🌱 I’m currently interested Java
 - 📫 How to reach me: mmericcana@gmail.com
 - 👔 My LinkedIn Profile: linkedin.com/in/mericcana/
+- 📖 My Medium Profile: medium.com/@mericcana
