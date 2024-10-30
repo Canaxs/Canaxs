@@ -16,6 +16,7 @@ I'm Full-Stack Software Developer
 <img src="https://img.icons8.com/ios/50/centralized-network.png" width="36" height="36" alt="MicroService" style="margin-left:5px" />
 <img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" width="36" height="36" alt="MySQL" style="margin-left:5px" />
 </p>
+
 - 🔭 Frontend technologies I use: 
 <p>
 <img src="https://static.cdnlogo.com/logos/n/43/nuxt-square.svg" width="36" height="36" alt="NuxtJS" />
