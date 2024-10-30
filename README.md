@@ -5,7 +5,7 @@
 I'm Full-Stack Software Developer
 
 - 🔭 Backend technologies I use:
-<p>
+<p style="margin-left:20px">
 <img src="https://static.cdnlogo.com/logos/s/91/spring.svg" width="36" height="36" alt="Spring Framework" />
 <img src="https://static.cdnlogo.com/logos/o/94/oracle.svg" width="36" height="36" alt="OracleDB" style="margin-left:5px" />
 <img src="https://static.cdnlogo.com/logos/d/41/docker.svg" width="36" height="36" alt="Docker" style="margin-left:5px" />
@@ -18,7 +18,7 @@ I'm Full-Stack Software Developer
 </p>
 
 - 🔭 Frontend technologies I use: 
-<p>
+<p style="margin-left:20px>
 <img src="https://static.cdnlogo.com/logos/n/43/nuxt-square.svg" width="36" height="36" alt="NuxtJS" />
 <img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" width="36" height="36" alt="NextJS" style="margin-left:5px" />
 <img src="https://static.cdnlogo.com/logos/a/24/angular-icon.svg" width="36" height="36" alt="Angular" style="margin-left:5px" />
