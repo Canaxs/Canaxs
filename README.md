@@ -4,7 +4,8 @@
 
 I'm Full-Stack Software Developer
 
-- 🔭 Backend technologies I use: <p>
+- 🔭 Backend technologies I use:
+<p>
 <img src="https://static.cdnlogo.com/logos/s/91/spring.svg" width="36" height="36" alt="Spring Framework" />
 <img src="https://static.cdnlogo.com/logos/o/94/oracle.svg" width="36" height="36" alt="OracleDB" style="margin-left:5px" />
 <img src="https://static.cdnlogo.com/logos/d/41/docker.svg" width="36" height="36" alt="Docker" style="margin-left:5px" />
