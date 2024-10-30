@@ -27,6 +27,7 @@ I'm Full-Stack Software Developer
 <img src="https://static.cdnlogo.com/logos/b/50/bootstrap.svg" width="36" height="36" alt="Bootstrap" style="margin-left:5px" />
 <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="36" height="36" alt="NodeJS" style="margin-left:5px" />
 </p>
+
 - 📫 How to reach me: mmericcana@gmail.com
 - 👔 My LinkedIn Profile: [@Linkedin](https://www.linkedin.com/in/mericcana/)
 - 📖 My Medium Profile: [@Medium](https://medium.com/@mericcana)
