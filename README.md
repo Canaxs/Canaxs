@@ -31,4 +31,4 @@ I'm Full-Stack Software Developer
 - 📫 How to reach me: mmericcana@gmail.com
 - 👔 My LinkedIn Profile: [@Linkedin](https://www.linkedin.com/in/mericcana/)
 - 📖 My Medium Profile: [@Medium](https://medium.com/@mericcana)
-- 💻 My Website : [@Söylenti](https://xn--sylenti-90a.com/)
+- 💻 My Website : [@Söylenti](https://soylenti.xyz/)
